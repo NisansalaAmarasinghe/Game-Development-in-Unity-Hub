@@ -27,7 +27,7 @@ The game features a dynamic camera, keyboard controls, ball throwing, and multip
 <ul>
     <li>Unity Engine</li>
     <li>C#</li>
-    <li>Visual Studio Code</li>
+    <li>Visual Studio </li>
 </ul>
 
 <h2>Author</h2>
